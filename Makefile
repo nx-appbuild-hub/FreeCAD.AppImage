@@ -1,4 +1,4 @@
-SOURCE="https://github.com/FreeCAD/FreeCAD/releases/download/0.18.4/FreeCAD_0.18-16146-Linux-Conda_Py3Qt5_glibc2.12-x86_64.AppImage"
+SOURCE="https://github.com/FreeCAD/FreeCAD/releases/download/0.19_pre/FreeCAD_0.19-22756-Linux-Conda_glibc2.12-x86_64.AppImage"
 OUTPUT="FreeCAD.AppImage"
 
 all:
